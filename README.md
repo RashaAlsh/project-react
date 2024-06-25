@@ -10,7 +10,7 @@ free API to fetch movie information.
 <img src="https://i.ibb.co/Cz05pY3/Screenshot-2024-06-25-at-17-19-27.png" alt="Screenshot-img" border="0"></a>
 ## Demo :eyes: 
 
-The deployed version of this app is available
+The deployed version of this app will be available soon 
 
 
 ## Features
